@@ -1,0 +1,48 @@
+
+.category
+{
+    margin:20px;
+    width:600px;
+    height:600px;
+    display: inline-block;
+}
+.card-img-top
+{
+    height:350px;
+}
+.nav-item
+{
+    cursor: pointer;
+}
+.nav
+{
+    padding-left: 260px;
+}
+.card-title
+{
+    padding:4px;
+    font-weight:bold;
+    
+    font-size:20px;
+}
+.card-text
+{
+    
+    font-size:15px;
+}
+.default .card-title
+{
+    font-size:25px;
+}
+.default .card-text
+{
+    font-size:15px;
+}
+.default .card-subtitle
+{
+   font-size:20px;
+}
+.default
+{
+    
+}
